@@ -1,3 +1,7 @@
+# Hey there! 
+
+![](https://hitx.vercel.app/counter/?id=https://github.com/MrCoolAndroid/MrCoolAndroid&t=GitHub%20views)
+
 ## Who I am?
 - I am a young developer from Argentina, I started this journey in 2017!  
 - I am a main C# developer, but im still open to new languages!  
