@@ -4,7 +4,7 @@
 
 ## Who I am?
 - I am a young developer from Argentina, I started this journey in 2017!  
-- I am a main C# developer, but im still open to new languages!  
+- I am a main C# developer, but I'm still open to new languages!  
 - New to GitHub, so I am still learning how to use it well  
 
 ## What i am developing
